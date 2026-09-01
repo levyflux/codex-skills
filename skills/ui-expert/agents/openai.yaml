@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Expert"
+  short_description: "Design, implement, and visually verify polished UI"
+  default_prompt: "Use $ui-expert to design, implement, and visually review this interface to production quality."

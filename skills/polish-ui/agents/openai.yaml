@@ -1,0 +1,4 @@
+interface:
+  display_name: "Polish UI"
+  short_description: "Art-direct and visually refine distinctive interfaces"
+  default_prompt: "Use $polish-ui to design or refine this interface and validate it visually."

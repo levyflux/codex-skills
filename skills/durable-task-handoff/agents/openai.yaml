@@ -1,0 +1,7 @@
+interface:
+  display_name: "Durable Task Handoff"
+  short_description: "Capture verified state for reliable task resumption"
+  default_prompt: "Use $durable-task-handoff to capture a safe checkpoint for this task before the next phase."
+
+policy:
+  allow_implicit_invocation: true

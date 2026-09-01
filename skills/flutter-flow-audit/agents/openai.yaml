@@ -1,0 +1,7 @@
+interface:
+  display_name: "Flutter Flow Audit"
+  short_description: "Trace cross-screen Flutter state and lifecycle defects"
+  default_prompt: "Use $flutter-flow-audit to trace this Flutter flow and classify the reported state bug."
+
+policy:
+  allow_implicit_invocation: true

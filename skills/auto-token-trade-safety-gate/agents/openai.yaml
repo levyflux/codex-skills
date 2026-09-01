@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auto Token Trade Safety Gate"
+  short_description: "Fail-closed safety gate for automated token trades"
+  default_prompt: "Use $auto-token-trade-safety-gate to produce a fail-closed pre-trade decision for this exact token route."

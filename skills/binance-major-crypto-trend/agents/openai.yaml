@@ -1,0 +1,4 @@
+interface:
+  display_name: "Binance 主流币趋势研判"
+  short_description: "综合宏观、行情、资金与 X 舆情研判 BTC/ETH/BNB"
+  default_prompt: "Use $binance-major-crypto-trend to assess BTC, ETH, and BNB across short, swing, and medium-term horizons with current evidence."

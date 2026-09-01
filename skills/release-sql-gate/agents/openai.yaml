@@ -1,0 +1,7 @@
+interface:
+  display_name: "Release SQL Gate"
+  short_description: "Hash and order release SQL without executing it"
+  default_prompt: "Use $release-sql-gate to inventory and validate the SQL changed for this release."
+
+policy:
+  allow_implicit_invocation: true

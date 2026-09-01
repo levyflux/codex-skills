@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Session Retrospective"
+  short_description: "Audit Codex sessions without exposing prompt text"
+  default_prompt: "Use $codex-session-retrospective to review the last seven days of Codex work in this workspace."
+
+policy:
+  allow_implicit_invocation: true

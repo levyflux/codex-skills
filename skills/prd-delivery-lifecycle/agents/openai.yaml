@@ -1,0 +1,7 @@
+interface:
+  display_name: "PRD Delivery Lifecycle"
+  short_description: "Trace requirements through proof and release readiness"
+  default_prompt: "Use $prd-delivery-lifecycle to turn this requirement into a traceable, evidence-backed delivery plan."
+
+policy:
+  allow_implicit_invocation: true

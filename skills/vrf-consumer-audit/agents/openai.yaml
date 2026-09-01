@@ -1,0 +1,4 @@
+interface:
+  display_name: "VRF Consumer Audit"
+  short_description: "Audit VRF request, callback, and consumption state machines"
+  default_prompt: "Use $vrf-consumer-audit to review this VRF consumer and prove its critical state-machine invariants."

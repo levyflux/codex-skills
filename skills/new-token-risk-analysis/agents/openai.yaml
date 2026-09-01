@@ -1,0 +1,7 @@
+interface:
+  display_name: "New Token Risk Analysis"
+  short_description: "Evidence-backed launchpad and new-token risk review"
+  default_prompt: "Use $new-token-risk-analysis to assess this token's contract, liquidity, holder clusters, manipulation risk, and exit capacity."
+
+policy:
+  allow_implicit_invocation: true
